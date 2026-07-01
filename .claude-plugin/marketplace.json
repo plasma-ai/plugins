@@ -10,7 +10,7 @@
       "name": "wiki",
       "source": { "source": "github", "repo": "plasma-ai/wiki" },
       "description": "Indexed knowledge bases with command-line tools for agents.",
-      "version": "0.0.0",
+      "version": "0.1.0",
       "category": "productivity"
     }
   ]

@@ -3,15 +3,15 @@
   "description": "Agent skills for Claude Code by Plasma AI.",
   "owner": {
     "name": "Plasma AI",
-    "email": "aturner@plasma.ai"
+    "email": "eng@plasma.ai"
   },
   "plugins": [
     {
       "name": "wiki",
       "source": { "source": "url", "url": "https://github.com/plasma-ai/wiki.git" },
       "description": "Indexed knowledge bases with command-line tools for agents.",
-      "version": "0.1.0",
-      "category": "productivity"
+      "version": "1.0.0",
+      "category": "development"
     }
   ]
 }

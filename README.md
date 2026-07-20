@@ -2,8 +2,8 @@
 
 [![license](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
 
-Plugin marketplaces for [Plasma AI](https://github.com/plasma-ai). Agent
-skills for Claude Code and Codex with CLIs published to PyPI.
+Plugin marketplaces for [Plasma AI](https://github.com/plasma-ai). Agent skills
+for Claude Code and Codex with CLIs published to PyPI.
 
 | Plugin | Package       | Description                                                 |
 | ------ | ------------- | ----------------------------------------------------------- |
@@ -25,8 +25,8 @@ codex plugin add wiki@plasma
 
 ## Without a marketplace
 
-The skill can also be installed straight from its CLI, which copies it
-into `~/.claude/skills` and `~/.agents/skills`:
+The skill can also be installed straight from its CLI, which copies it into
+`~/.claude/skills` and `~/.agents/skills`:
 
 ```bash
 pipx install plasma-wiki && wiki install

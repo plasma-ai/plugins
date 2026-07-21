@@ -11,6 +11,14 @@
       "description": "Indexed knowledge bases with command-line tools for agents.",
       "version": "1.1.0",
       "category": "Development"
+    },
+    {
+      "name": "fractal",
+      "source": { "source": "url", "url": "https://github.com/plasma-ai/fractal.git" },
+      "policy": { "installation": "AVAILABLE", "authentication": "ON_USE" },
+      "description": "Hierarchical agent loops with recursive self-organization.",
+      "version": "1.0.0",
+      "category": "Development"
     }
   ]
 }
